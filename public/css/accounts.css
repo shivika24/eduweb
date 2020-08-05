@@ -1,0 +1,56 @@
+
+#box-3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://www.canva.com/learn/wp-content/uploads/2018/06/FoodPhotographyProps34-tb-2640x1485.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+  }
+  #featured-models {
+    padding: 50px 0px;
+    background-image: url("../images/bg.png");
+    background-color: #1c1c1c;
+    background-position: top center;
+    color: #999999;
+    background-attachment: fixed;
+    text-align: center;
+    box-shadow: 0 100px 100px -100px #000 inset;
+    border-top: 8px solid #333;
+  }
+  
+  #featured-models h1 {
+    color: #ffffff;
+  }
+  
+  #featured-models h5 {
+    color: #ac8236;
+  }
+  
+  #featured-models p {
+    margin-bottom: 30px;
+  }
+  .button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+  }
+  
+  #rbut {
+	background-color: rgb(59, 138, 212); 
+	color: white; 
+  }
+  
+  #rbut:hover {
+	background-color: white;
+	color: black;
+	border: 2px solid rgb(59, 138, 212);
+  }
